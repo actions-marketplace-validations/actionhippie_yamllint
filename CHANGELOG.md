@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.10.2](https://github.com/actionhippie/yamllint/compare/v1.10.1...v1.10.2) (2026-01-19)
+
+### Bugfixes
+
+* always add a v prefix to image refs on release ([eb2454d](https://github.com/actionhippie/yamllint/commit/eb2454d86dc284ca7f6c031de8027d4a5dc508ee))
+
+### Miscellaneous
+
+* use correct categories for releaserc to fix changelog ([43932a7](https://github.com/actionhippie/yamllint/commit/43932a798ba010486948de44387a08e23fc08b83))
+
+## [1.10.1](https://github.com/actionhippie/yamllint/compare/v1.10.0...v1.10.1) (2026-01-19)
+
+### Bugfixes
+
+* resolve missing quote in action config ([bb66cc5](https://github.com/actionhippie/yamllint/commit/bb66cc57beae7fc31e97e9738136381ff1848b0f))
+
+## [1.10.0](https://github.com/actionhippie/yamllint/compare/v1.9.1...v1.10.0) (2026-01-19)
+
 ## [1.9.1](https://github.com/actionhippie/yamllint/compare/v1.9.0...v1.9.1) (2025-12-22)
 
 ## [1.9.0](https://github.com/actionhippie/yamllint/compare/v1.8.0...v1.9.0) (2025-12-08)
