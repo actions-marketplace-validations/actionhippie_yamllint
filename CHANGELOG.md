@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.10.3](https://github.com/actionhippie/yamllint/compare/v1.10.2...v1.10.3) (2026-02-02)
+
+### Dependencies
+
+* **patch:** update alpine:3.23 docker digest to 2510918 ([#62](https://github.com/actionhippie/yamllint/issues/62)) ([b945eb8](https://github.com/actionhippie/yamllint/commit/b945eb8ebc0ea0567d8753a1d04687659b0d90c0))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([424db43](https://github.com/actionhippie/yamllint/commit/424db43de60458bee96209eb9b713f543a38ddc4))
+* **flake:** updated lockfile [skip ci] ([c09d716](https://github.com/actionhippie/yamllint/commit/c09d716868d37363a168d39f8b4a0e2fe6a81386))
+
 ## [1.10.2](https://github.com/actionhippie/yamllint/compare/v1.10.1...v1.10.2) (2026-01-19)
 
 ### Bugfixes
